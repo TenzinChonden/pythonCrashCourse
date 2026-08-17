@@ -1,0 +1,5 @@
+In Python you can create classes that represent real world objects and create instances of those classes. 
+In Python you can have child classes take on attributes of parent classes. 
+In Python you can have a variable, which is a pointer to a value in memory. 
+In Python you can do math. 
+In Python you can use the random library to get random numbers and make random choices. 
