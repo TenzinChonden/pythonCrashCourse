@@ -84,7 +84,7 @@ ax.legend(loc='upper right', frameon=True)
 ax1.bar(dates, prcps, color='purple', width=1)
 ax1.set_title('Precipitation', fontsize=14, fontweight='bold')
 ax1.set_xlabel('', fontsize=12)
-ax1.set_ylabel('Precipitation (cm)', fontsize=12)
+ax1.set_ylabel('Precipitation (cm)', fontsize=12, fontweight='bold')
 
 
 fig.autofmt_xdate()
