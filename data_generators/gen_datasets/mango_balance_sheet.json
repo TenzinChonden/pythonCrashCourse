@@ -1,0 +1,37 @@
+{
+	"name": "Mango Ltd.",
+    "fiscal_year": 2025,
+    "currency": "USD",
+    "assets": {
+      "current_assets": {
+        "cash_and_cash_equivalents": 12400000,
+        "accounts_receivable": 8100000,
+        "inventory": 9300000,
+        "total_current_assets": 29800000
+      },
+      "non_current_assets": {
+        "property_plant_equipment": 41200000,
+        "intangible_assets": 5500000,
+        "total_non_current_assets": 46700000
+      },
+      "total_assets": 76500000
+    },
+    "liabilities": {
+      "current_liabilities": {
+        "accounts_payable": 6700000,
+        "short_term_debt": 3100000,
+        "total_current_liabilities": 9800000
+      },
+      "non_current_liabilities": {
+        "long_term_debt": 21500000,
+        "deferred_tax_liabilities": 3200000,
+        "total_non_current_liabilities": 24700000
+      },
+      "total_liabilities": 34500000
+    },
+    "equity": {
+      "common_stock": 25000000,
+      "retained_earnings": 17000000,
+      "total_equity": 42000000
+    }
+}

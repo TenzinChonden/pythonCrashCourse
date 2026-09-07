@@ -1,0 +1,37 @@
+{
+	"name": "Apple Corp.",
+	"fiscal_year": 2025,
+	"currency": "USD",
+	"assets": {
+	  "current_assets": {
+	    "cash_and_cash_equivalents": 28500000,
+	    "accounts_receivable": 14200000,
+	    "inventory": 18900000,
+	    "total_current_assets": 61600000
+	  },
+	  "non_current_assets": {
+	    "property_plant_equipment": 85400000,
+	    "intangible_assets": 12100000,
+	    "total_non_current_assets": 97500000
+	  },
+	  "total_assets": 159100000
+	},
+	"liabilities": {
+	  "current_liabilities": {
+	    "accounts_payable": 11300000,
+	    "short_term_debt": 5200000,
+	    "total_current_liabilities": 16500000
+	  },
+	  "non_current_liabilities": {
+	    "long_term_debt": 42000000,
+	    "deferred_tax_liabilities": 6800000,
+	    "total_non_current_liabilities": 48800000
+	  },
+	  "total_liabilities": 65300000
+	},
+	"equity": {
+	  "common_stock": 50000000,
+	  "retained_earnings": 43800000,
+	  "total_equity": 93800000
+	}
+ }
